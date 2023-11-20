@@ -1,8 +1,9 @@
 # 8th Edition Ocean Hackathon 2023 
+## Challenge No.3 "Spatial and Temporal Visualization for Enhancing Climate Change Monitoring and Flood Management"
 
 ![](./images/Ocean_Hackathon.png )
 
-This repository is dedicated for the python code in visualising the historical rainfall pattern, spatial pattern and the flooding hotspot in Kuching city, Sarawak based on the data collected for decades from the Department of Irrigation and Drainage, Sarawak. &#128187;
+This repository is dedicated for the python code in visualising the historical rainfall pattern, spatial pattern and the flooding hotspot in Kuching city, Sarawak based on the data collected for decades from the Department of Irrigation and Drainage, Sarawak during Ocean Hackathon 2023. &#128187; The work are dedicated for challenge No.3, "Spatial and Temporal Visualization for Enhancing Climate Change Monitoring and Flood Management"
 
 ### Example of Visualisation from Rainfall_data.ipynb.
 ![](./images/daily_sum_rainfall_2021_02_Maong%20Tengah%20Kiri.jpg)
